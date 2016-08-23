@@ -1,2 +1,2 @@
 # springMVC
-demo
+demo by annotation
